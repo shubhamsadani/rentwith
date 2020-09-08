@@ -203,7 +203,7 @@
 					</div>
 					<p style="margin-left: 0vw;">Studying Engineering</p>
 					<p style="margin-left: 0vw;margin-top: -1.3vh"><span style="color:#00ff00;">Roommate</span> | Bhuleshwar, Mumbai</p>
-					<img src="C:\Users\Shubham Sadani\Downloads\plus.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
+					<img src="plus.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
 				</div>
 
 				<div class="detail" style="width:20vw;float: left;margin-left: 4vw;">
@@ -217,7 +217,7 @@
 					</div>
 					<p style="margin-left: 0vw;">Studying Engineering</p>
 					<p style="margin-left: 0vw;margin-top: -1.3vh"><span style="color:#00ff00;">Roommate</span> | Bhuleshwar, Mumbai</p>
-					<img src="C:\Users\Shubham Sadani\Downloads\plus.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
+					<img src="plus.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
 				</div>
 				
 				<div class="detail" style="width:20vw;float: left;margin-left: 4vw;">
@@ -231,7 +231,7 @@
 					</div>
 					<p style="margin-left: 0vw;">Studying Engineering</p>
 					<p style="margin-left: 0vw;margin-top: -1.3vh"><span style="color:#00ff00;">Roommate</span> | Bhuleshwar, Mumbai</p>
-					<img src="C:\Users\Shubham Sadani\Downloads\done.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
+					<img src="done.png" style="width: 3.5vh;float: right;margin-top: -7vh;margin-right: -1.75vw">
 				</div>
 			
 		</div>
